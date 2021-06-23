@@ -1,6 +1,3 @@
-##NAME: Bertrand M. Kalisa
-##UA ID: 010906341
-
 
 In this socket program, there are two main parts for it, mainly the server.py and the client.py 
 the socket program was for an automated teller machine (ATM) wherre the user has options to access their bank account.
