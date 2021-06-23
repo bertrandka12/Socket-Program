@@ -1,5 +1,4 @@
-##NAME: Bertrand M. Kalisa
-##UA ID: 010906341
+
 #server.py
 
 import socket, sys
