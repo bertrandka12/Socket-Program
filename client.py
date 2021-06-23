@@ -1,6 +1,5 @@
 
-##NAME: Bertrand M. Kalisa
-##UA ID: 010906341
+
 #client.py
 
 import socket
