@@ -1,4 +1,4 @@
-# NETWORKS
+# Socket Program (NETWORKS)
 
 
 In this socket program, there are two main parts for it, mainly the server.py and the client.py 
